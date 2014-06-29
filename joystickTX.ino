@@ -13,6 +13,12 @@ http://nazm.us
    6 - MOSI to Arduino pin 11
    7 - MISO to Arduino pin 12
    8 - UNUSED
+   
+   Default Button Pins: 
+   Up - pin 2
+   Right - pin 3
+   Down - pin 4
+   Left - pin 5
    - 
    Analog Joystick module
    GND to Arduino GND
