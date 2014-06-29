@@ -94,7 +94,3 @@ void loop()   /****** LOOP: RUNS CONSTANTLY ******/
       // Debugging code above  
 }//--(end main loop )---
 
-/*-----( Declare User-written Functions )-----*/
-
-//NONE
-//*********( THE END )***********
