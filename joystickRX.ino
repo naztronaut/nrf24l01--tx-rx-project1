@@ -6,8 +6,8 @@ http://nazm.us
  http://arduino-info.wikispaces.com/Nrf24L01-2.4GHz-HowTo
    1 - GND
    2 - VCC 3.3V !!! NOT 5V
-   3 - CE to Arduino pin 9
-   4 - CSN to Arduino pin 10
+   3 - CE to Arduino pin 6
+   4 - CSN to Arduino pin 7
    5 - SCK to Arduino pin 13
    6 - MOSI to Arduino pin 11
    7 - MISO to Arduino pin 12
